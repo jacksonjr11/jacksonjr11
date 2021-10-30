@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [LIV Saúde](https://livsaude.com.br)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, Angular, React**
 
 - ⚡ Fun fact **Oneye 😜**
 
