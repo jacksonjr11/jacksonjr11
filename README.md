@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jacksonjr11/6b84b87a92309671058c897fa8ea0083/raw/c04f43a705382f458bfe54989a9f09ecfba4e5fa/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jacksonjr11/6b84b87a92309671058c897fa8ea0083/raw/cf85c05ff5f52dca9cc61ed5a72db2515af2159e/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jackson Junior</h1>
 
 - 🔥 Junior Web Developer
@@ -25,6 +25,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
+<br><br>
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
