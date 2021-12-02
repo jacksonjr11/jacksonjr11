@@ -1,7 +1,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jacksonjr11/6b84b87a92309671058c897fa8ea0083/raw/cf85c05ff5f52dca9cc61ed5a72db2515af2159e/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jackson Junior</h1>
 
-- 🔥 Junior Web Developer
+- 🔥 Web and Mobile Developer
 
 - 🔭 I’m currently working at [LIV Saúde](https://livsaude.com.br)
 
