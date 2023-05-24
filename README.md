@@ -3,7 +3,7 @@
 
 - 🔥 Web and Mobile Developer
 
-- 🔭 I’m currently working at [LIV Saúde](https://livsaude.com.br)
+- 🔭 I’m currently working at [DELL LEAD](https://www.linkedin.com/company/dell-lead)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Angular, React**
 
