@@ -5,9 +5,8 @@
 
 - 🔭 I’m currently working at [DELL LEAD](https://www.linkedin.com/company/dell-lead)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Angular, React**
+- 💬 Ask me about **JavaScript, Angular, React and Node**
 
-- ⚡ Fun fact **Oneye 😜**
 
 <br><br>
 
