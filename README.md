@@ -3,7 +3,7 @@
 
 - 🔥 Web and Mobile Developer
 
-- 🔭 I’m currently working at [DELL LEAD](https://www.linkedin.com/company/dell-lead)
+- 🔭 I’m currently working at [SOTECH](https://www.sotechsaude.com.br/)
 
 - 💬 Ask me about **JavaScript, Angular, React and Node**
 
