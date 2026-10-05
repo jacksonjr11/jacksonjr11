@@ -1,11 +1,10 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jackson Junior</h1>
 
-- 🔥 Web and Mobile Developer
+- 🔥 Backend Specialist, but with expertise in Frontend.
 
 - 🔭 I’m currently working at [SOTECH](https://www.sotechsaude.com.br/)
 
-- 💬 Ask me about **Node.js • TypeScript • Distributed Systems • Microservices • DevOps  • AWS **
-
+- 💬 Ask me about *Node.js • TypeScript • Distributed Systems • Microservices • DevOps  • AWS*
 
 <br><br>
 
@@ -13,20 +12,19 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMq-05122A?style=flat&logo=rabbitmq)&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-
-<br><br>
-<br><br>
-
-<!-- ## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=jacksonjr11&show_icons=true&theme=vision-friendly-dark" alt="jackson's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonjr11&layout=compact&theme=vision-friendly-dark" alt="jackson's most languages"/>
-</p> -->
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-05122A?style=flat&logo=opentelemetry)&nbsp;
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
+![Jaeger](https://img.shields.io/badge/-Jaeger-05122A?style=flat&logo=jaeger)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
 
 <br><br>
 
