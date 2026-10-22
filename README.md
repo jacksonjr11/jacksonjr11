@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Node.js · TypeScript · Distributed Systems · Microservices · DevOps · AWS
+  Software Engineer · AI Engineer · Distributed Systems · Microservices · DevOps · AWS
 </p>
 
 <p align="center">
